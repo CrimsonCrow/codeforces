@@ -4,4 +4,4 @@
 
 ### Roadmap #
 * [id] [Name] [Problem solve/count]
-* [4] [Codeforces Div. 2, A] [6/100]
+* [4] [Codeforces Div. 2, A] [10/100]
